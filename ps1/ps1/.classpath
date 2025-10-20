@@ -1,13 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-25"/>
 	<classpathentry kind="src" path="test"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
-	<classpathentry kind="lib" path="lib/javax.json-1.0.jar">
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="c:/Users/ammer/OneDrive/Desktop/5th  Sem/SC/Labs/ammersaeed_466445_lab5/ps1/ps1/ps1/lib/javax.json-1.0.jar">
 		<attributes>
 			<attribute name="javadoc_location" value="http://docs.oracle.com/javaee/7/api/"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/ammer/.cursor/extensions/redhat.java-1.46.0-win32-x64/server/plugins/org.junit_4.13.2.v20240929-1000.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="http://junit.org/junit4/javadoc/latest/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Users/ammer/.cursor/extensions/redhat.java-1.46.0-win32-x64/server/plugins/org.hamcrest_3.0.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
